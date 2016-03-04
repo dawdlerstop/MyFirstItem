@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-//     山东肥城GV不会叫你们快来； 
+//     山东肥城GV不会叫你们快来；
+//    erctvybuniomp,
+//    gthjkl;'
 }
 
 - (void)didReceiveMemoryWarning {
